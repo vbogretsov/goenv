@@ -15,14 +15,14 @@ $ goenv ENVDIRECTORY IMPORTPATH
 $ source ENVDIRECTORY/bin/activate
 ```
 
-### Example
+#### Example
 
 ```{bash}
 $ goenv .env github.com/vbogretsov/goenv
 $ source .env/bin/activate
 ```
 
-### Deactivate
+#### Deactivate
 
 ```{bash}
 $ deactivate
